@@ -22,3 +22,6 @@
 [submodule "src/rmf/rmf_cmake_uncrustify"]
 	path = src/rmf/rmf_cmake_uncrustify
 	url = https://github.com/open-rmf/rmf_cmake_uncrustify.git
+[submodule "src/rmf/ament_cmake_catch2"]
+	path = src/rmf/ament_cmake_catch2
+	url = https://github.com/open-rmf/ament_cmake_catch2.git
