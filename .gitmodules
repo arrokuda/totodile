@@ -13,3 +13,6 @@
 [submodule "src/rmf/rmf_task"]
 	path = src/rmf/rmf_task
 	url = https://github.com/open-rmf/rmf_task.git
+[submodule "src/rmf/rmf_traffic"]
+	path = src/rmf/rmf_traffic
+	url = https://github.com/open-rmf/rmf_traffic.git
