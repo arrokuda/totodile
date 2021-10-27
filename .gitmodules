@@ -4,3 +4,6 @@
 [submodule "src/rmf/rmf_battery"]
 	path = src/rmf/rmf_battery
 	url = https://github.com/open-rmf/rmf_battery.git
+[submodule "src/rmf/rmf_internal_msgs"]
+	path = src/rmf/rmf_internal_msgs
+	url = https://github.com/open-rmf/rmf_internal_msgs.git
