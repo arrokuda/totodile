@@ -10,3 +10,6 @@
 [submodule "src/rmf/rmf_ros2"]
 	path = src/rmf/rmf_ros2
 	url = https://github.com/open-rmf/rmf_ros2.git
+[submodule "src/rmf/rmf_task"]
+	path = src/rmf/rmf_task
+	url = https://github.com/open-rmf/rmf_task.git
