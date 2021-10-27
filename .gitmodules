@@ -19,3 +19,6 @@
 [submodule "src/rmf/rmf_utils"]
 	path = src/rmf/rmf_utils
 	url = https://github.com/open-rmf/rmf_utils.git
+[submodule "src/rmf/rmf_cmake_uncrustify"]
+	path = src/rmf/rmf_cmake_uncrustify
+	url = https://github.com/open-rmf/rmf_cmake_uncrustify.git
